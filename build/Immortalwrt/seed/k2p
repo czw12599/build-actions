@@ -34,7 +34,6 @@ CONFIG_PACKAGE_libtasn1=y
 CONFIG_PACKAGE_libtirpc=y
 CONFIG_PACKAGE_liburing=y
 CONFIG_PACKAGE_libuuid=y
-CONFIG_PACKAGE_luci-app-accesscontrol=y
 CONFIG_PACKAGE_luci-app-ddns=y
 # CONFIG_PACKAGE_luci-app-diskman_INCLUDE_btrfs_progs is not set
 # CONFIG_PACKAGE_luci-app-diskman_INCLUDE_lsblk is not set
@@ -42,17 +41,14 @@ CONFIG_PACKAGE_luci-app-ddns=y
 # CONFIG_PACKAGE_luci-app-rclone_INCLUDE_rclone-ng is not set
 # CONFIG_PACKAGE_luci-app-rclone_INCLUDE_rclone-webui is not set
 CONFIG_PACKAGE_luci-app-samba4=y
-CONFIG_PACKAGE_luci-app-smartdns=y
 CONFIG_PACKAGE_luci-app-socat=y
 # CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_ChinaDNS_NG is not set
 # CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_ShadowsocksR_Libev_Client is not set
 # CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Shadowsocks_Simple_Obfs is not set
 CONFIG_PACKAGE_luci-app-upnp=y
 # CONFIG_PACKAGE_luci-app-webd_INCLUDE_WEBD_BINARY is not set
-CONFIG_PACKAGE_luci-i18n-accesscontrol-zh-cn=y
 CONFIG_PACKAGE_luci-i18n-ddns-zh-cn=y
 CONFIG_PACKAGE_luci-i18n-samba4-zh-cn=y
-CONFIG_PACKAGE_luci-i18n-smartdns-zh-cn=y
 CONFIG_PACKAGE_luci-i18n-socat-zh-cn=y
 CONFIG_PACKAGE_luci-i18n-upnp-zh-cn=y
 CONFIG_PACKAGE_miniupnpd=y
