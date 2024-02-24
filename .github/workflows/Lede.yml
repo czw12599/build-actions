@@ -33,10 +33,10 @@ on:
           - 'phicomm_k2p'
           - 'R3G'
           - 'x86_64'
-          - 'xiaomi_mi-router-4a-gigabit'
+          - 'xiaomi_mi-router-wr30u'
           - 'xiaomi_redmi-router-ac2100'
           - 'xiaomi_redmi-router-ax6s'
-          - 'xiaoyu_xy-c5'
+          
       CPU_SELECTION:
         description: 'CPU优选,增加编译速度'
         required: true
