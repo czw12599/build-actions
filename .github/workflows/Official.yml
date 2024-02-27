@@ -31,7 +31,7 @@ on:
         type: choice
         options:
           - '1907-phicomm-k3'
-          - 'aarch64'
+          - 'AX3000T'
           - 'phicomm_k3'
           - 'x86_64'
       CPU_SELECTION:
